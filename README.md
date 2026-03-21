@@ -1,4 +1,4 @@
-# autonomous-ai-analytics-platform  # Autonomous AI Analytics Platform 🚀
+  # Autonomous AI Analytics Platform 🚀
 
 ## Overview
 AI-powered platform for automated data analysis, model selection, and predictions.
