@@ -1,0 +1,4 @@
+name,age,city
+Aman,25,Pune
+Riya,22,Mumbai
+Raj,30,Delhi

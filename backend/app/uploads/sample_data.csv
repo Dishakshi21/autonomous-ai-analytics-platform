@@ -1,0 +1,16 @@
+Age,Experience,Department,Salary,PerformanceScore
+25,1,IT,35000,3
+30,5,HR,50000,4
+35,10,Finance,75000,5
+28,3,IT,42000,3
+40,12,Finance,90000,5
+32,6,HR,60000,4
+27,2,Marketing,38000,3
+45,15,Management,120000,5
+29,4,IT,45000,4
+38,9,Finance,82000,5
+33,7,HR,64000,4
+26,1,Marketing,36000,3
+31,5,IT,52000,4
+36,11,Finance,87000,5
+41,13,Management,110000,5
